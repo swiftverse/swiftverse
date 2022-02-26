@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**swiftverse/swiftverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on SwiftUI ...
 - 👯 I’m looking to collaborate on SwiftUI...
@@ -13,4 +11,4 @@ I am open to work and collaborate on projects which require SwiftUI implementati
 
 My medium profile - https://medium.com/@amitsrivastava115
 
--->
+
